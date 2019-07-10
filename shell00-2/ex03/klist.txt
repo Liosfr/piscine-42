@@ -1,0 +1,5 @@
+Credentials cache: API:529C1259-E7F5-454D-ABF0-15D6D76EA178
+        Principal: lbury@42.FR
+
+  Issued                Expires               Principal
+Jul  1 15:47:48 2019  Jul  8 15:47:48 2019  krbtgt/42.FR@42.FR
