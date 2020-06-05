@@ -1,2 +1,3 @@
-# piscine-42
-Mon travail durant la piscine de 42 Juillet 2019
+# 42 pool
+My work during the 42 pool C.
+(I loose all files)
